@@ -109,7 +109,7 @@ RMSE = √MSE
 
 The following image shows the software output and model results:
 
-![Model Output](output.png)
+![Model Output](a.png)
 
 > Make sure that `output.png` is placed in the same directory as `README.md` so that the image is displayed correctly.
 
